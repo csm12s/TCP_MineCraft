@@ -1,0 +1,11 @@
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\bin\Debug\McServer.exe.config
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\bin\Debug\McServer.exe
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\bin\Debug\McServer.pdb
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\bin\Debug\Newtonsoft.Json.dll
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\bin\Debug\Newtonsoft.Json.xml
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\obj\Debug\MC_Server.csproj.AssemblyReference.cache
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\obj\Debug\MC_Server.csproj.SuggestedBindingRedirects.cache
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\obj\Debug\MC_Server.csproj.CoreCompileInputs.cache
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\obj\Debug\MC_Server.csproj.CopyComplete
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\obj\Debug\McServer.exe
+D:\Unity\_Refer\MMO\TCP\MC_Demo\MC_Server\McServer\obj\Debug\McServer.pdb
